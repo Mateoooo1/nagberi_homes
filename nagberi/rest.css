@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.hmm {
+    text-align: center;
+    color: rgb(18, 19, 19);
+}

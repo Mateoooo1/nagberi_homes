@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.no{
+    text-align: center;
+    background-color: gray;
+}
+
+.yes{
+    background-color: gray;
+}
